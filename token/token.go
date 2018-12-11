@@ -19,6 +19,10 @@ const (
 
 	ASSIGN = "="
 	PLUS = "+"
+	MINUS = "-"
+	BANG = "!"
+	ASTERISK = "*"
+	SLASH = "/"
 
 	COMMA = ","
 	SEMICOLON = ";"
@@ -28,6 +32,9 @@ const (
 
 	LBRACE = "{"
 	RBRACE = "}"
+
+	LT = "<"
+	GT = "<"
 
 	FUNCTION = "FUNCTION"
 	LET = "LET"
